@@ -1,0 +1,41 @@
+.navbar-brand {
+  margin-right: 100px;
+  font-family:"Akshar";
+  font-size: 25px;
+  margin-left: -3rem;
+  
+  
+}
+
+.info{
+  color: aliceblue;
+  
+}
+
+.logo {
+  width: 10%;
+
+}
+
+.toLink {
+  text-decoration: none;
+}
+
+.toAbout{
+  text-decoration: none;
+  color: aliceblue;
+  font-family: "Akshar";
+  font-size: 20px;
+  left:300px;
+  position: absolute;
+}
+
+.toAbout:hover{
+  color: rgb(181, 215, 233);
+}
+
+.mar{
+  margin-left: 1rem;
+  font-size: 2rem;
+}
+
